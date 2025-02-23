@@ -10,3 +10,5 @@ hofstede cultural dimension theory has six key dimensions through which the infl
   6. Indulgence vs Restraint
 
 in this project my focus is primarily on Masculinity and Faminity dimension 
+    • Masculinity: Associated with traits like achievement, assertiveness, and material success. In text, masculine values may appear as competition, ambition, and individualism.
+    • Femininity: Linked to nurturing, care, and quality of life. Feminine texts may emphasize empathy, cooperation, and community.
